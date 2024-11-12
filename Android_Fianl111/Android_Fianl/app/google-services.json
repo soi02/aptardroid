@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "295628255443",
+    "firebase_url": "https://androidfianl-default-rtdb.firebaseio.com",
+    "project_id": "androidfianl",
+    "storage_bucket": "androidfianl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295628255443:android:9a10aaba2d283a3ee12426",
+        "android_client_info": {
+          "package_name": "com.inhatc.android_fianl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3hl-9DnFXDv7Cx15oEEXq1BhvWc0uX0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_values" translatable="false">
+        <item>승강기 점검 시간</item>
+        <item>주차장 공사 안내</item>
+        <item>세대별 소독 시간</item>
+        <item>관리비</item>
+        <item>아파트 시설 이용 요금</item>
+    </string-array>
+</resources>
